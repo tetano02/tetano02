@@ -1,8 +1,8 @@
 Hi 👋 I'm Stefano  
 
-Robotics & AI enthusiast who enjoys building things that move, sense and decide 🤖
+Robotics & AI enthusiast who enjoys controlling things that move, sense and decide 🤖
 
-🎓 MSc @ University of Studies of Brescia  
+🎓 MSc Industrial Automation Engineering @ University of Studies of Brescia  
 🎓 Double Degree in Mechatronic Systems @ Sorbonne University (Paris)
 
 I’m interested in autonomous systems, perception, machine learning and control.  
