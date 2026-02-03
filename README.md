@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi 👋 I'm Stefano  
 
-<!--
-**tetano02/tetano02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Robotics & AI Engineer with a strong interest in autonomous systems, perception and machine learning.  
+I enjoy working at the intersection of robotics, control and artificial intelligence, turning theory into real, working systems.
 
-Here are some ideas to get you started:
+🎓 Education  
+MSc in Engineering – University of Studies of Brescia  
+Double Degree in Mechatronic Systems – Sorbonne University (Paris)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently completing my MSc thesis, focused on applying AI and robotics techniques to complex, real-world problems.  
+I like projects that involve sensing, decision-making and interaction with the physical world.
+
+💡 What drives me:
+- Building intelligent systems that can perceive, reason and act  
+- Bridging software, algorithms and real robots  
+- Learning by doing, experimenting and iterating  
+
+🛠️ Main interests:
+- Robotics & Autonomous Systems  
+- Machine Learning & Computer Vision  
+- Perception, planning and control  
+- ROS-based robotic projects  
+
+🌍 Goal:
+Work internationally in cutting-edge robotics and AI environments, contributing to impactful technologies.
+
+📫 Feel free to explore my repositories or connect with me on LinkedIn.
