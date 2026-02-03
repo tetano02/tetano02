@@ -10,4 +10,5 @@ I like hands-on projects, real robots and solving messy real-world problems.
 
 Currently working on my MSc thesis and always experimenting with new ideas.
 
-🔗 Let’s connect: https://www.linkedin.com/in/stefano-agnelli/
+🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/stefano-agnelli/)
+
